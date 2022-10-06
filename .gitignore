@@ -5,3 +5,7 @@ npm-debug.log
 .env
 .DS_Store
 config.ts
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
