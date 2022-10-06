@@ -13,7 +13,7 @@ exports.config = {
         "aws_media_bucket": process.env.AWS_MEDIA_BUCKET
     },
     "jwt": {
-        "secret": " "
+        "secret": "helloworld"
     },
     "prod": {
         "username": process.env.POSTGRESS_USERNAME,
